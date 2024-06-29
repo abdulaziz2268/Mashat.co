@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    margin-top: 3%;
+    text-decoration: none;
+    color: #fff;
+}
+.signin{
+    height: auto;
+    width: 72px;
+    margin-left: 30%;
+    text-decoration: none;
+}       
+body{
+    background-color: #80abdc;
+}
+
+.info{
+    padding: auto;
+    border: auto;
+    background-color: antiquewhite;
+    max-width: 50%; 
+    border: 50%;
+    box-sizing: content-box;
+    border-width: 50%;
+}
+
+.temp{
+    background: local;
+    background-color: blue;
+    max-width: 50%;
+    max-width: fit-content;
+}
